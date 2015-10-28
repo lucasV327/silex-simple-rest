@@ -68,6 +68,7 @@ Fell free to contribute, fork, pull request, hack. Thanks!
 
 ####Author
 
+//pull request comment to get the free hacktoberfest t-shirt
 
 +	[@vesparny](https://twitter.com/vesparny)
 
